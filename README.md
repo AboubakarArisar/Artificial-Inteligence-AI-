@@ -29,9 +29,9 @@ The repository is organized as follows:
 
 ```plaintext
 .
-├── Assignments/        # Weekly lab assignments
+├── Weekly-Labs/        # Weekly lab assignments
 ├── Projects/           # AI projects (if any)
-├── Resources/          # Study materials, references, and notes
+├── Practice/          # practice codes, 
 ├── README.md           # This file
 ```
 
@@ -72,7 +72,7 @@ Feel free to suggest improvements or report issues via the **Issues** tab. Contr
 
 ## 🔗 **Connect**
 If you have any queries or need assistance, you can reach me at:
-- **Email**: [Your Email Address]
-- **GitHub**: [Your GitHub Profile URL]
+- **Email**: aboubakar.dev@gmail.com.
+- **GitHub**: https://github.com/AboubakarArisar
 
 Happy Coding! 🎉
