@@ -49,20 +49,10 @@ print(frozensetVariable)
 print(type(frozensetVariable))
 
 #. Boolean Type:	bool
-boolVariable = True
+boolVariable = True #boolean is either True or False
 print(boolVariable)
 print(type(boolVariable))
 
-#. Binary Types:	bytes, bytearray, memoryview
-bytesVariable = b"Hello" #bytes is immutable
-print(bytesVariable)
-print(type(bytesVariable))
 
-bytearrayVariable = bytearray(5) #bytearray is mutable
-print(bytearrayVariable)
-print(type(bytearrayVariable))
 
-memoryviewVariable = memoryview(bytes(5)) #memoryview is mutable
-print(memoryviewVariable)
-print(type(memoryviewVariable))
 
